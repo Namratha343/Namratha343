@@ -2,7 +2,7 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Namrathaaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Namratha343&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <!-- Added Profile Banner -->
@@ -124,12 +124,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Namrathaaaaaa&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Namrathaaaaaa&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Namrathaaaaaa&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Namrathaaaaaa&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Namrathaaaaaa&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Namrathaaaaaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Namratha343&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Namratha343&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Namratha343&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Namratha343&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Namratha343&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Namratha343&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
 <br/>
 <br/>
@@ -138,12 +138,12 @@ Here are some ideas to get you started:
 
 <p align="center">
    <a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namrathaaaaaa&theme=radical" /></p>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha343&theme=radical" /></p>
    </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namrathaaaaaa&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namratha343&theme=synthwave-84&true&hide_border=true" />
 </div>
 
 <hr>
