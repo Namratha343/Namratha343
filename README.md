@@ -134,9 +134,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namratha343&theme=synthwave-84&true&hide_border=true" />
-</div>
+
 
 <hr>
 
