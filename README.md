@@ -131,11 +131,8 @@ Here are some ideas to get you started:
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Namratha343&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Namratha343&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
-<br/>
-<br/>
-<br/>
 
 
-<hr>
+
 
 
