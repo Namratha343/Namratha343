@@ -134,14 +134,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-
-
-<p align="center">
-   <a>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha343&theme=radical" /></p>
-   </a>
-</p>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Namratha343&theme=synthwave-84&true&hide_border=true" />
 </div>
